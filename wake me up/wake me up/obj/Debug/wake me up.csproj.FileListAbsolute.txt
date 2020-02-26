@@ -1,0 +1,39 @@
+c:\users\antreas\documents\visual studio 2013\Projects\wake me up\wake me up\bin\Debug\wake me up.exe.config
+c:\users\antreas\documents\visual studio 2013\Projects\wake me up\wake me up\bin\Debug\wake me up.exe
+c:\users\antreas\documents\visual studio 2013\Projects\wake me up\wake me up\bin\Debug\wake me up.pdb
+c:\users\antreas\documents\visual studio 2013\Projects\wake me up\wake me up\obj\Debug\wake_me_up.Properties.Resources.resources
+c:\users\antreas\documents\visual studio 2013\Projects\wake me up\wake me up\obj\Debug\wake me up.csproj.GenerateResource.Cache
+c:\users\antreas\documents\visual studio 2013\Projects\wake me up\wake me up\obj\Debug\wake me up.exe
+c:\users\antreas\documents\visual studio 2013\Projects\wake me up\wake me up\obj\Debug\wake me up.pdb
+C:\Users\Antreas\Documents\Visual Studio 2013\Projects\wake me up\wake me up\obj\Debug\wake_me_up.mainForm.resources
+C:\Users\Antreas\Documents\Visual Studio 2013\Projects\wake me up\wake me up\bin\Debug\Interop.WMPLib.dll
+C:\Users\Antreas\Documents\Visual Studio 2013\Projects\wake me up\wake me up\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Antreas\Documents\Visual Studio 2013\Projects\wake me up\wake me up\obj\Debug\Interop.WMPLib.dll
+C:\Users\Antreas\Documents\Visual Studio 2013\Projects\wake me up\wake me up\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Antreas\Documents\Visual Studio 2013\Projects\wake me up\wake me up\obj\Debug\wake me up.csproj.ResolveComReference.cache
+C:\Users\Antreas\Documents\Visual Studio 2013\Projects\wake me up\wake me up\bin\Debug\wake me up.exe.manifest
+C:\Users\Antreas\Documents\Visual Studio 2013\Projects\wake me up\wake me up\bin\Debug\wake me up.application
+C:\Users\Antreas\Documents\Visual Studio 2013\Projects\wake me up\wake me up\obj\Debug\wake me up.exe.manifest
+C:\Users\Antreas\Documents\Visual Studio 2013\Projects\wake me up\wake me up\obj\Debug\wake me up.application
+C:\Users\Antreas\documents\visual studio 2013\Projects\wake me up\wake me up\obj\Debug\wake me up.csprojResolveAssemblyReference.cache
+C:\Users\Antreas\documents\visual studio 2013\Projects\wake me up\wake me up\obj\Debug\wake_me_up.About.resources
+C:\Users\Antreas\Desktop\wake me up\wake me up\bin\Debug\wake me up.exe.config
+C:\Users\Antreas\Desktop\wake me up\wake me up\obj\Debug\Interop.WMPLib.dll
+C:\Users\Antreas\Desktop\wake me up\wake me up\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Antreas\Desktop\wake me up\wake me up\obj\Debug\wake me up.csproj.ResolveComReference.cache
+C:\Users\Antreas\Desktop\wake me up\wake me up\obj\Debug\wake me up.exe
+C:\Users\Antreas\Desktop\wake me up\wake me up\obj\Debug\wake me up.pdb
+C:\Users\Antreas\Desktop\wake me up\wake me up\bin\Debug\wake me up.exe.manifest
+C:\Users\Antreas\Desktop\wake me up\wake me up\bin\Debug\wake me up.application
+C:\Users\Antreas\Desktop\wake me up\wake me up\bin\Debug\wake me up.exe
+C:\Users\Antreas\Desktop\wake me up\wake me up\bin\Debug\wake me up.pdb
+C:\Users\Antreas\Desktop\wake me up\wake me up\bin\Debug\Interop.WMPLib.dll
+C:\Users\Antreas\Desktop\wake me up\wake me up\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Antreas\Desktop\wake me up\wake me up\obj\Debug\wake me up.csprojResolveAssemblyReference.cache
+C:\Users\Antreas\Desktop\wake me up\wake me up\obj\Debug\wake_me_up.About.resources
+C:\Users\Antreas\Desktop\wake me up\wake me up\obj\Debug\wake_me_up.mainForm.resources
+C:\Users\Antreas\Desktop\wake me up\wake me up\obj\Debug\wake_me_up.Properties.Resources.resources
+C:\Users\Antreas\Desktop\wake me up\wake me up\obj\Debug\wake me up.csproj.GenerateResource.Cache
+C:\Users\Antreas\Desktop\wake me up\wake me up\obj\Debug\wake me up.exe.manifest
+C:\Users\Antreas\Desktop\wake me up\wake me up\obj\Debug\wake me up.application
+C:\Users\Antreas\Desktop\wake me up\wake me up\bin\Debug\Resources\banana_minions.wav
