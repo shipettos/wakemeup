@@ -14,6 +14,7 @@ namespace wake_me_up
         [STAThread]
         static void Main()
         {
+			//edited example for git
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new mainForm());
