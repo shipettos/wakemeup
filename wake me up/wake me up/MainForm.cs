@@ -112,7 +112,7 @@ namespace wake_me_up
                 return;
             }
 
-            //try reading minutes
+            // TRY reading minutes - test
             
             try
             {
